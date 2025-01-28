@@ -1,0 +1,44 @@
+{
+    "France": [
+        {"name": "Bordeaux", "features": "Famous for red wines", "coordinates": [44.8378, -0.5792]},
+        {"name": "Champagne", "features": "Known for sparkling wine", "coordinates": [49.256, 4.0347]},
+        {"name": "Burgundy", "features": "Renowned for Pinot Noir and Chardonnay", "coordinates": [47.0524, 4.3834]},
+        {"name": "Provence", "features": "Popular for Rosé wines", "coordinates": [43.5211, 5.4358]}
+    ],
+    "Italy": [
+        {"name": "Tuscany", "features": "Famous for Chianti wine", "coordinates": [43.7711, 11.2486]},
+        {"name": "Piedmont", "features": "Known for Barolo and Barbaresco wines", "coordinates": [44.8832, 8.2084]},
+        {"name": "Veneto", "features": "Renowned for Prosecco and Amarone wines", "coordinates": [45.4343, 12.3387]}
+    ],
+    "Germany": [
+        {"name": "Rheingau", "features": "Famous for Riesling wine", "coordinates": [50.0275, 8.1486]},
+        {"name": "Mosel", "features": "Known for sweet and dry Riesling", "coordinates": [49.8152, 6.0196]}
+    ],
+    "Spain": [
+        {"name": "Rioja", "features": "Known for Tempranillo-based wines", "coordinates": [42.4651, -2.4457]},
+        {"name": "Catalonia", "features": "Popular for Cava and red wines", "coordinates": [41.3874, 2.1686]},
+        {"name": "Ribera del Duero", "features": "Famous for full-bodied red wines", "coordinates": [41.6935, -3.6895]}
+    ],
+    "USA": [
+        {"name": "Napa Valley", "features": "Famous for Cabernet Sauvignon", "coordinates": [38.5025, -122.2654]},
+        {"name": "Sonoma", "features": "Known for Zinfandel and Chardonnay", "coordinates": [38.2919, -122.458]},
+        {"name": "Willamette Valley", "features": "Renowned for Pinot Noir", "coordinates": [45.2116, -123.1989]}
+    ],
+    "Australia": [
+        {"name": "Barossa Valley", "features": "Famous for Shiraz wines", "coordinates": [-34.5325, 138.9582]},
+        {"name": "Hunter Valley", "features": "Known for Semillon and Shiraz", "coordinates": [-32.7955, 151.3365]},
+        {"name": "Yarra Valley", "features": "Renowned for Chardonnay and Pinot Noir", "coordinates": [-37.6517, 145.3816]}
+    ],
+    "Argentina": [
+        {"name": "Mendoza", "features": "Famous for Malbec wines", "coordinates": [-32.8895, -68.8458]},
+        {"name": "Salta", "features": "Known for Torrontés and Malbec", "coordinates": [-24.7821, -65.4232]}
+    ],
+    "South Africa": [
+        {"name": "Stellenbosch", "features": "Renowned for Chenin Blanc and Pinotage", "coordinates": [-33.9346, 18.8698]},
+        {"name": "Paarl", "features": "Known for diverse wine styles", "coordinates": [-33.7338, 18.9623]}
+    ],
+    "Chile": [
+        {"name": "Maipo Valley", "features": "Famous for Cabernet Sauvignon", "coordinates": [-33.826, -70.7179]},
+        {"name": "Casablanca Valley", "features": "Known for Sauvignon Blanc and Pinot Noir", "coordinates": [-33.3183, -71.4071]}
+    ]
+}
