@@ -1,0 +1,1429 @@
+{
+    "Afghanistan": {
+        "features": "No wine regions"
+    },
+    "Albania": {
+        "features": "No significant wine regions"
+    },
+    "Algeria": {
+        "features": "No significant wine regions"
+    },
+    "Andorra": {
+        "features": "No significant wine regions"
+    },
+    "Angola": {
+        "features": "No significant wine regions"
+    },
+    "Antarctica": [
+    {
+      "name": "No wine regions",
+      "features": "No wine production due to extreme cold and lack of agricultural activity."
+    }
+    ],
+    "Antigua and Barbuda": {
+        "features": "No significant wine regions"
+    },
+    "Argentina": [
+        {
+            "name": "Mendoza",
+            "features": "Leading region, famous for Malbec",
+            "coordinates": [-32.8908, -68.8272]
+        },
+        {
+            "name": "San Juan",
+            "features": "Known for Syrah and fortified wines",
+            "coordinates": [-31.5375, -68.5364]
+        },
+        {
+            "name": "La Rioja",
+            "features": "Produces Torrontés and Malbec",
+            "coordinates": [-29.4135, -66.8565]
+        },
+        {
+            "name": "Salta",
+            "features": "High-altitude vineyards, known for Torrontés",
+            "coordinates": [-24.7821, -65.4232]
+        },
+        {
+            "name": "Patagonia",
+            "features": "Cool climate wines, notably Pinot Noir",
+            "coordinates": [-39.5, -67.5]
+        }
+    ],
+    "Armenia": [
+        {
+            "name": "Ararat Valley",
+            "features": "Ancient wine region, known for Areni grape",
+            "coordinates": [39.8308, 44.6636]
+        }
+    ],
+    "Australia": [
+        {
+            "name": "Barossa Valley",
+            "features": "Renowned for Shiraz",
+            "coordinates": [-34.532, 138.958]
+        },
+        {
+            "name": "Margaret River",
+            "features": "Famous for Cabernet Sauvignon and Chardonnay",
+            "coordinates": [-33.953, 115.075]
+        },
+        {
+            "name": "Hunter Valley",
+            "features": "Known for Semillon and Shiraz",
+            "coordinates": [-32.837, 151.357]
+        },
+        {
+            "name": "Yarra Valley",
+            "features": "Cool climate wines, especially Pinot Noir and Chardonnay",
+            "coordinates": [-37.655, 145.451]
+        },
+        {
+            "name": "McLaren Vale",
+            "features": "Produces Shiraz and Grenache",
+            "coordinates": [-35.217, 138.542]
+        }
+    ],
+    "Austria": [
+        {
+            "name": "Wachau",
+            "features": "Known for high-quality Riesling and Grüner Veltliner",
+            "coordinates": [48.317, 15.417]
+        },
+        {
+            "name": "Burgenland",
+            "features": "Famous for red wines and sweet dessert wines",
+            "coordinates": [47.800, 16.000]
+        },
+        {
+            "name": "Styria",
+            "features": "Produces Sauvignon Blanc and other aromatic whites",
+            "coordinates": [47.000, 15.500]
+        }
+    ],
+    "Azerbaijan": [
+        {
+            "name": "Ganja",
+            "features": "Traditional wine-producing area",
+            "coordinates": [40.6828, 46.3606]
+        },
+        {
+            "name": "Shirvan",
+            "features": "Known for indigenous grape varieties",
+            "coordinates": [40.3083, 48.4911]
+        }
+    ],
+    "Bahamas": {
+        "features": "No wine regions"
+    },
+    "Bahrain": {
+        "features": "No wine regions"
+    },
+    "Bangladesh": {
+        "features": "No wine regions"
+    },
+    "Barbados": {
+        "features": "No wine regions"
+    },
+    "Belarus": {
+        "features": "No significant wine regions"
+    },
+    "Belgium": [
+        {
+            "name": "Hageland",
+            "features": "Emerging wine region producing whites and sparkling wines",
+            "coordinates": [50.950, 4.833]
+        },
+        {
+            "name": "Haspengouw",
+            "features": "Known for Chardonnay and Pinot Noir",
+            "coordinates": [50.800, 5.350]
+        }
+    ],
+    "Belize": {
+        "features": "No wine regions"
+    },
+    "Benin": {
+        "features": "No wine regions"
+    },
+    "Bhutan": {
+        "features": "No wine regions"
+    },
+    "Bolivia": [
+        {
+            "name": "Tarija",
+            "features": "High-altitude vineyards producing unique wines",
+            "coordinates": [-21.5355, -64.7296]
+        }
+    ],
+    "Bosnia and Herzegovina": [
+        {
+            "name": "Herzegovina",
+            "features": "Known for Žilavka (white) and Blatina (red) wines",
+            "coordinates": [43.350, 17.800]
+        }
+    ],
+    "Botswana": {
+        "features": "No wine regions"
+    },
+    "Brazil": [
+        {
+            "name": "Serra Gaúcha",
+            "features": "Leading wine region, known for sparkling wines",
+            "coordinates": [-29.1667, -51.5167]
+        },
+        {
+            "name": "Campanha",
+            "features": "Produces red wines from international varieties",
+            "coordinates": [-30.8333, -55.5000]
+        }
+    ],
+    "Brunei": {
+        "features": "No wine regions"
+    },
+    "Bulgaria": [
+        {
+            "name": "Thracian Valley",
+            "features": "Known for red wines from Mavrud and Rubin grapes",
+            "coordinates": [42.200, 25.300]
+        },
+        {
+            "name": "Danubian Plain",
+            "features": "Produces Gamza and Muscat wines",
+            "coordinates": [43.500, 25.500]
+        }
+    ],
+    "Burkina Faso": {
+        "features": "No wine regions"
+    },
+    "Burundi": {
+        "features": "No wine regions"
+    },
+    "Cabo Verde": {
+        "features": "No significant wine regions"
+    },
+    "Cambodia": {
+        "features": "No significant wine regions"
+    },
+    "Cameroon": [
+    {
+      "name": "Nkam Valley",
+      "features": "A small emerging wine region, mostly growing red varieties.",
+      "coordinates": [4.817, 10.160]
+    }
+    ],
+    "Canada": [
+        {
+        "name": "Okanagan Valley",
+        "features": "Famous for its diverse wine styles, including ice wine.",
+        "coordinates": [49.703, -119.573]
+        },
+        {
+        "name": "Niagara Peninsula",
+        "features": "Known for cool climate wines, especially Riesling and Cabernet Franc.",
+        "coordinates": [43.089, -79.225]
+        }
+    ],
+    "Cape Verde": [
+        {
+        "name": "Santiago Island",
+        "features": "Small-scale wine production with a focus on local varieties.",
+        "coordinates": [15.084, -23.636]
+        }
+    ],
+    "Chile": [
+        {
+        "name": "Maipo Valley",
+        "features": "Famous for Cabernet Sauvignon",
+        "coordinates": [-33.826, -70.7179]
+        },
+        {
+        "name": "Casablanca Valley",
+        "features": "Known for Sauvignon Blanc and Pinot Noir",
+        "coordinates": [-33.3183, -71.4071]
+        },
+        {
+        "name": "Colchagua Valley",
+        "features": "Renowned for red wines, particularly Carmenère",
+        "coordinates": [-34.628, -71.423]
+        },
+        {
+        "name": "Aconcagua Valley",
+        "features": "Known for Syrah and Cabernet Sauvignon",
+        "coordinates": [-32.916, -70.640]
+        }
+    ],
+    "China": [
+        {
+        "name": "Ningxia",
+        "features": "One of the most famous wine regions, producing a variety of red wines.",
+        "coordinates": [37.675, 105.847]
+        },
+        {
+        "name": "Shandong",
+        "features": "Important region known for dry whites and reds.",
+        "coordinates": [36.000, 118.000]
+        },
+        {
+        "name": "Xinjiang",
+        "features": "Known for its large-scale production of table wines.",
+        "coordinates": [42.549, 85.216]
+        }
+    ],
+    "Colombia": [
+        {
+        "name": "El Tablón de Gómez",
+        "features": "A small emerging region producing high-altitude wines.",
+        "coordinates": [2.760, -75.674]
+        }
+    ],
+    "Costa Rica": [
+        {
+        "name": "Central Valley",
+        "features": "Growing reputation for red wines, including Cabernet Sauvignon.",
+        "coordinates": [9.934, -84.083]
+        }
+    ],
+    "Croatia": [
+        {
+        "name": "Istria",
+        "features": "Famous for Malvasia and Teran wines.",
+        "coordinates": [44.100, 13.500]
+        },
+        {
+        "name": "Dalmatia",
+        "features": "Known for Plavac Mali and Pošip varieties.",
+        "coordinates": [42.000, 17.000]
+        }
+    ],
+    "Czech Republic": [
+        {
+        "name": "Moravia",
+        "features": "The main wine region, known for its white wines, including Sauvignon Blanc.",
+        "coordinates": [49.490, 16.000]
+        }
+    ],
+    "Denmark": [
+        {
+        "name": "Lolland-Falster",
+        "features": "A small but growing wine region, focusing on cold-climate wines.",
+        "coordinates": [54.730, 11.465]
+        }
+    ],
+    "Dominican Republic": [
+        {
+        "name": "Bonao",
+        "features": "A small wine-producing area in the central region.",
+        "coordinates": [18.975, -70.216]
+        }
+    ],
+    "Ecuador": [
+        {
+        "name": "Azuay",
+        "features": "Emerging wine region producing table wines and some red varieties.",
+        "coordinates": [-2.900, -79.200]
+        }
+    ],
+    "El Salvador": [
+        {
+        "name": "Apaneca-Ilamatepeq",
+        "features": "A small wine region growing both red and white wines.",
+        "coordinates": [13.800, -89.050]
+        }
+    ],
+    "Estonia": [
+        {
+        "name": "Tartu",
+        "features": "Known for small-scale production of fruit wines.",
+        "coordinates": [58.380, 26.725]
+        }
+    ],
+    "Ethiopia": [
+        {
+        "name": "Oromia",
+        "features": "An emerging wine region with a focus on highland wines.",
+        "coordinates": [9.145, 40.489]
+        }
+    ],
+    "Finland": [
+        {
+        "name": "South Karelia",
+        "features": "Known for its cold-climate wines and fruit wines.",
+        "coordinates": [61.000, 28.200]
+        }
+    ],
+    "France": [
+        {
+            "name": "Bordeaux",
+            "features": "Famous for Merlot, Cabernet Sauvignon, and Sauvignon Blanc.",
+            "coordinates": [44.840, -0.580]
+        },
+        {
+            "name": "Burgundy",
+            "features": "Famous for Pinot Noir and Chardonnay.",
+            "coordinates": [47.020, 4.860]
+        },
+        {
+            "name": "Champagne",
+            "features": "Known for sparkling wines made from Chardonnay, Pinot Noir, and Pinot Meunier.",
+            "coordinates": [49.300, 4.000]
+        },
+        {
+            "name": "Rhône Valley",
+            "features": "Famous for Syrah, Grenache, and Viognier.",
+            "coordinates": [44.500, 4.800]
+        },
+        {
+            "name": "Loire Valley",
+            "features": "Known for Sauvignon Blanc, Chenin Blanc, and Cabernet Franc.",
+            "coordinates": [47.300, 0.500]
+        },
+        {
+            "name": "Provence",
+            "features": "Famous for Rosé wines.",
+            "coordinates": [43.930, 6.950]
+        },
+        {
+            "name": "Languedoc-Roussillon",
+            "features": "Known for a diverse range of wines, including Grenache, Syrah, and Carignan.",
+            "coordinates": [43.000, 2.500]
+        },
+        {
+            "name": "Alsace",
+            "features": "Famous for white wines, particularly Riesling, Gewürztraminer, and Pinot Gris.",
+            "coordinates": [48.500, 7.500]
+        },
+        {
+            "name": "Beaujolais",
+            "features": "Famous for Gamay grapes and light red wines.",
+            "coordinates": [46.033, 4.717]
+        },
+        {
+            "name": "Sauternes",
+            "features": "Famous for sweet white wines made from Semillon, Sauvignon Blanc, and Muscadelle.",
+            "coordinates": [44.600, -0.210]
+        },
+        {
+            "name": "Corsica",
+            "features": "Known for a mix of red, white, and rosé wines with Mediterranean influences.",
+            "coordinates": [42.000, 9.000]
+        },
+        {
+            "name": "Chablis",
+            "features": "Famous for Chardonnay wines, with a unique minerality.",
+            "coordinates": [47.800, 3.800]
+        },
+        {
+            "name": "Jura",
+            "features": "Known for white wines like Chardonnay, and red wines made from Pinot Noir.",
+            "coordinates": [46.600, 5.800]
+        },
+        {
+            "name": "Côte d'Or",
+            "features": "Famous for Pinot Noir and Chardonnay, located within Burgundy.",
+            "coordinates": [47.000, 4.800]
+        }
+    ],
+    "Germany": [
+    {
+      "name": "Rheingau",
+      "features": "Famous for Riesling and Pinot Noir.",
+      "coordinates": [50.000, 8.200]
+    },
+    {
+      "name": "Mosel",
+      "features": "Famous for Riesling with high acidity and minerality.",
+      "coordinates": [50.000, 7.250]
+    },
+    {
+      "name": "Pfalz",
+      "features": "Known for Riesling, Müller-Thurgau, and Pinot Noir.",
+      "coordinates": [49.000, 8.100]
+    },
+    {
+      "name": "Rheinhessen",
+      "features": "Germany's largest wine region, known for Riesling, Pinot Blanc, and Silvaner.",
+      "coordinates": [49.800, 8.300]
+    },
+    {
+      "name": "Franken",
+      "features": "Famous for dry white wines from Silvaner and red wines from Pinot Noir.",
+      "coordinates": [49.800, 10.200]
+    },
+    {
+      "name": "Baden",
+      "features": "Known for Pinot Noir, Pinot Blanc, and Chardonnay.",
+      "coordinates": [48.000, 8.200]
+    },
+    {
+      "name": "Württemberg",
+      "features": "Famous for red wines, especially Trollinger, Lemberger, and Pinot Noir.",
+      "coordinates": [48.700, 9.100]
+    },
+    {
+      "name": "Ahr",
+      "features": "Famous for red wines, particularly Pinot Noir.",
+      "coordinates": [50.533, 7.133]
+    },
+    {
+      "name": "Saale-Unstrut",
+      "features": "Known for white wines, such as Müller-Thurgau and Riesling.",
+      "coordinates": [51.250, 11.450]
+    },
+    {
+      "name": "Nahe",
+      "features": "Known for Riesling, Pinot Noir, and Müller-Thurgau.",
+      "coordinates": [49.900, 7.750]
+    },
+    {
+      "name": "Hessische Bergstraße",
+      "features": "Known for Riesling, Pinot Noir, and red wines.",
+      "coordinates": [49.700, 8.600]
+    },
+    {
+      "name": "Sachsen",
+      "features": "Known for white wines, including Müller-Thurgau and Riesling.",
+      "coordinates": [51.300, 13.100]
+    },
+    {
+      "name": "Berlin",
+      "features": "Small wine-growing region, known for red wines like Pinot Noir.",
+      "coordinates": [52.520, 13.405]
+    }
+    ],
+    "Georgia": [
+    {
+      "name": "Kakheti",
+      "features": "Known for Saperavi and Rkatsiteli.",
+      "coordinates": [41.350, 45.750]
+    },
+    {
+      "name": "Kartli",
+      "features": "Known for Chinuri and Tsitska.",
+      "coordinates": [41.800, 44.000]
+    },
+    {
+      "name": "Imereti",
+      "features": "Known for Tsolikouri and Krakhuna.",
+      "coordinates": [42.250, 42.900]
+    },
+    {
+      "name": "Racha-Lechkhumi",
+      "features": "Known for Ojaleshi.",
+      "coordinates": [42.700, 43.200]
+    },
+    {
+      "name": "Samegrelo",
+      "features": "Known for local varieties like Aladasturi.",
+      "coordinates": [42.500, 41.850]
+    },
+    {
+      "name": "Adjara",
+      "features": "Known for Chkhaveri, a light red wine.",
+      "coordinates": [41.500, 41.600]
+    },
+    {
+      "name": "Meskheti",
+      "features": "Known for indigenous varieties like Jani and Svanuri.",
+      "coordinates": [41.700, 42.200]
+    }
+    ],
+    "Greece": [
+        {
+        "name": "Santorini",
+        "features": "Known for Assyrtiko, a dry white wine.",
+        "coordinates": [36.400, 25.460]
+        },
+        {
+        "name": "Nemea",
+        "features": "Famous for Agiorgitiko, a red grape variety.",
+        "coordinates": [37.770, 22.730]
+        },
+        {
+        "name": "Macedonia",
+        "features": "Known for Xinomavro and other local varieties.",
+        "coordinates": [40.700, 22.900]
+        },
+        {
+          "name": "Peloponnese",
+          "features": "Famous for Agiorgitiko and Moschofilero.",
+          "coordinates": [37.500, 22.500]
+        },
+        {
+          "name": "Crete",
+          "features": "Known for Vidiano, Kotsifali, and Liatiko.",
+          "coordinates": [35.240, 24.800]
+        },
+        {
+          "name": "Thessaly",
+          "features": "Known for Rapsani and other indigenous varieties.",
+          "coordinates": [39.500, 22.000]
+        },
+        {
+          "name": "Samos",
+          "features": "Known for Muscat of Samos, a sweet white wine.",
+          "coordinates": [37.750, 26.966]
+        },
+        {
+          "name": "Ionian Islands",
+          "features": "Known for local varieties such as Robola and Mavrodaphne.",
+          "coordinates": [38.100, 20.500]
+        },
+        {
+          "name": "Epirus",
+          "features": "Known for Debina and Vlahiko.",
+          "coordinates": [39.600, 20.900]
+        },
+        {
+            "name": "Rhodes",
+            "features": "Known for local varieties like Athiri and Mandilaria.",
+            "coordinates": [36.434, 28.217]
+          }
+
+    ],
+    "Guatemala": [
+        {
+        "name": "Escuintla",
+        "features": "An emerging wine region with some production of red and white wines.",
+        "coordinates": [13.900, -90.600]
+        }
+    ],
+    "Honduras": [
+        {
+        "name": "La Paz",
+        "features": "A small wine-producing area with a focus on red wines.",
+        "coordinates": [13.500, -87.800]
+        }
+    ],
+    "Hungary": [
+        {
+        "name": "Tokaj",
+        "features": "Famous for its sweet wines made from Furmint and Hárslevelű.",
+        "coordinates": [48.080, 21.450]
+        },
+        {
+        "name": "Eger",
+        "features": "Known for Bull's Blood (Egri Bikavér) and white wines like Leányka.",
+        "coordinates": [47.900, 20.370]
+        },
+        {
+        "name": "Villány",
+        "features": "Famous for red wines, particularly Cabernet Franc and Merlot.",
+        "coordinates": [45.860, 18.370]
+        }
+    ],
+    "Iceland": [
+        {
+        "name": "No wine regions",
+        "features": "No suitable climate for wine production."
+        }
+    ],
+    "India": [
+        {
+        "name": "Nashik",
+        "features": "Known as the wine capital of India, famous for Cabernet Sauvignon and Chenin Blanc.",
+        "coordinates": [19.500, 73.900]
+        },
+        {
+        "name": "Bangalore",
+        "features": "Emerging wine region with a focus on red wines.",
+        "coordinates": [12.971, 77.594]
+        }
+    ],
+    "Iran": [
+    {
+      "name": "No wine regions",
+      "features": "Wine production is not prevalent due to cultural and legal restrictions."
+    }
+    ],
+    "Italy": [
+    {
+      "name": "Piedmont",
+      "features": "Famous for Barolo, Barbaresco, and Nebbiolo.",
+      "coordinates": [44.400, 7.800]
+    },
+    {
+      "name": "Tuscany",
+      "features": "Known for Chianti, Brunello di Montalcino, and Sangiovese.",
+      "coordinates": [43.700, 11.250]
+    },
+    {
+      "name": "Veneto",
+      "features": "Famous for Prosecco, Amarone, and Valpolicella.",
+      "coordinates": [45.400, 11.000]
+    },
+    {
+      "name": "Sicily",
+      "features": "Known for Nero d'Avola, Cerasuolo di Vittoria, and Marsala.",
+      "coordinates": [37.600, 14.000]
+    },
+    {
+      "name": "Lazio",
+      "features": "Known for Frascati and Trebbiano.",
+      "coordinates": [41.900, 12.500]
+    },
+    {
+      "name": "Emilia-Romagna",
+      "features": "Known for Lambrusco and Sangiovese.",
+      "coordinates": [44.800, 11.600]
+    },
+    {
+      "name": "Apulia",
+      "features": "Known for Primitivo, Negroamaro, and Salice Salentino.",
+      "coordinates": [41.100, 16.600]
+    },
+    {
+      "name": "Lombardy",
+      "features": "Known for Franciacorta and Valtellina.",
+      "coordinates": [45.700, 9.300]
+    },
+    {
+      "name": "Trentino-Alto Adige",
+      "features": "Famous for Pinot Grigio, Gewürztraminer, and Lagrein.",
+      "coordinates": [46.500, 11.200]
+    },
+    {
+      "name": "Campania",
+      "features": "Known for Greco di Tufo and Fiano di Avellino.",
+      "coordinates": [40.800, 14.900]
+    },
+    {
+      "name": "Liguria",
+      "features": "Famous for Vermentino and Rossese.",
+      "coordinates": [44.000, 9.000]
+    },
+    {
+      "name": "Abruzzo",
+      "features": "Known for Montepulciano d'Abruzzo and Trebbiano.",
+      "coordinates": [42.400, 13.500]
+    },
+    {
+      "name": "Marche",
+      "features": "Known for Verdicchio and Montepulciano.",
+      "coordinates": [43.500, 13.000]
+    },
+    {
+      "name": "Friuli Venezia Giulia",
+      "features": "Known for Friulano, Sauvignon Blanc, and Pinot Grigio.",
+      "coordinates": [46.100, 13.200]
+    },
+    {
+      "name": "Sardinia",
+      "features": "Famous for Cannonau, Vermentino, and Carignano.",
+      "coordinates": [40.100, 9.100]
+    },
+    {
+      "name": "Molise",
+      "features": "Known for Trebbiano and Sangiovese.",
+      "coordinates": [41.500, 14.600]
+    },
+    {
+      "name": "Aosta Valley",
+      "features": "Known for Petit Rouge, Fumin, and Pinot Noir.",
+      "coordinates": [45.800, 7.300]
+    }
+    ],
+    "Jamaica": [
+        {
+        "name": "No wine regions",
+        "features": "No wine production due to climate limitations."
+        }
+    ],
+    "Japan": [
+        {
+        "name": "Yamanashi",
+        "features": "Known for Koshu and other native varieties.",
+        "coordinates": [35.700, 138.600]
+        },
+        {
+        "name": "Hokkaido",
+        "features": "Emerging cool-climate wine region.",
+        "coordinates": [43.500, 142.000]
+        }
+    ],
+    "Jordan": [
+        {
+        "name": "Jordan Valley",
+        "features": "Small but growing wine region producing a variety of wines.",
+        "coordinates": [31.800, 35.800]
+        }
+    ],
+    "Lebanon": [
+        {
+        "name": "Bekaa Valley",
+        "features": "Famous for red wines, especially those made from Cabernet Sauvignon, Merlot, and Syrah.",
+        "coordinates": [33.800, 35.600]
+        }
+    ],
+    "Lesotho": [
+        {
+        "name": "No wine regions",
+        "features": "No significant wine production due to climate limitations."
+        }
+    ],
+    "Luxembourg": [
+        {
+        "name": "Moselle",
+        "features": "Known for white wines, especially Riesling and Pinot Gris.",
+        "coordinates": [49.600, 6.200]
+        }
+    ],
+    "Malawi": [
+        {
+        "name": "No wine regions",
+        "features": "Limited wine production due to climate."
+        }
+    ],
+    "Malaysia": [
+        {
+        "name": "No wine regions",
+        "features": "No significant wine production due to climate limitations."
+        }
+    ],
+    "Mexico": [
+        {
+        "name": "Baja California",
+        "features": "Famous for Valle de Guadalupe, known for Tempranillo and Nebbiolo.",
+        "coordinates": [31.700, -116.600]
+        },
+        {
+        "name": "Coahuila",
+        "features": "Known for red wines, especially from Cabernet Sauvignon and Merlot.",
+        "coordinates": [25.500, -100.000]
+        }
+    ],
+    "Moldova": [
+        {
+        "name": "Codru",
+        "features": "Famous for Cabernet Sauvignon and other international varieties.",
+        "coordinates": [47.150, 28.400]
+        },
+        {
+        "name": "Valul lui Traian",
+        "features": "Known for indigenous varieties like Fetească Neagră.",
+        "coordinates": [45.850, 28.050]
+        }
+    ],
+    "Monaco": [
+        {
+        "name": "No wine regions",
+        "features": "No wine production due to space limitations."
+        }
+    ],
+    "Morocco": [
+        {
+        "name": "Rabat",
+        "features": "Known for red wines, especially from Cabernet Sauvignon and Syrah.",
+        "coordinates": [34.020, -6.840]
+        },
+        {
+        "name": "Meknès",
+        "features": "Famous for white and red wines, especially from Chardonnay and Merlot.",
+        "coordinates": [33.900, -5.550]
+        }
+    ],
+    "Namibia": [
+        {
+        "name": "No wine regions",
+        "features": "No significant wine production due to climate limitations."
+        }
+    ],
+    "Nepal": [
+    {
+      "name": "No wine regions",
+      "features": "No significant wine production due to climate limitations."
+    }
+    ],
+    "Netherlands": [
+        {
+        "name": "Limburg",
+        "features": "Emerging wine region known for white wines like Riesling and Pinot Blanc.",
+        "coordinates": [50.850, 5.850]
+        }
+    ],
+    "New Zealand": [
+        {
+        "name": "Marlborough",
+        "features": "Famous for Sauvignon Blanc and Pinot Noir.",
+        "coordinates": [-41.500, 174.000]
+        },
+        {
+        "name": "Hawke's Bay",
+        "features": "Known for Merlot and Chardonnay.",
+        "coordinates": [-39.700, 176.900]
+        },
+        {
+        "name": "Central Otago",
+        "features": "Famous for Pinot Noir.",
+        "coordinates": [-45.050, 169.000]
+        }
+    ],
+    "Nicaragua": [
+        {
+        "name": "No wine regions",
+        "features": "No significant wine production due to climate limitations."
+        }
+    ],
+    "Niger": [
+        {
+        "name": "No wine regions",
+        "features": "No wine production due to extreme heat and arid conditions."
+        }
+    ],
+    "Nigeria": [
+        {
+        "name": "No wine regions",
+        "features": "No wine production due to climate limitations."
+        }
+    ],
+    "North Macedonia": [
+        {
+        "name": "Ohrid",
+        "features": "Known for red wines, especially Vranec.",
+        "coordinates": [41.100, 20.800]
+        },
+        {
+        "name": "Tikveš",
+        "features": "Famous for Vranec and Cabernet Sauvignon.",
+        "coordinates": [41.500, 22.000]
+        }
+    ],
+    "Norway": [
+        {
+        "name": "No wine regions",
+        "features": "No significant wine production due to climate limitations."
+        }
+    ],
+    "Oman": [
+        {
+        "name": "No wine regions",
+        "features": "No significant wine production due to climate limitations."
+        }
+    ],
+    "Pakistan": [
+        {
+        "name": "No wine regions",
+        "features": "No significant wine production due to climate limitations."
+        }
+    ],
+    "Panama": [
+        {
+        "name": "No wine regions",
+        "features": "No significant wine production due to climate limitations."
+        }
+    ],
+    "Paraguay": [
+        {
+        "name": "No wine regions",
+        "features": "No significant wine production due to climate limitations."
+        }
+    ],
+    "Peru": [
+        {
+        "name": "Icacha Valley",
+        "features": "Known for red and white wines made from native and international varieties.",
+        "coordinates": [-13.500, -75.500]
+        },
+        {
+        "name": "Ica Valley",
+        "features": "Famous for Pisco production, but also produces red and white wines.",
+        "coordinates": [-14.070, -75.710]
+        }
+    ],
+    "Philippines": [
+        {
+        "name": "No wine regions",
+        "features": "No wine production due to climate limitations."
+        }
+    ],
+    "Poland": [
+        {
+        "name": "Lubusz",
+        "features": "Emerging wine region known for white wines like Riesling.",
+        "coordinates": [51.700, 15.700]
+        },
+        {
+        "name": "Lesser Poland",
+        "features": "Known for local varieties like Solaris and Regent.",
+        "coordinates": [49.500, 20.000]
+        }
+    ],
+    "Portugal": [
+        {
+        "name": "Douro Valley",
+        "features": "Famous for Port wine and dry red wines from Touriga Nacional.",
+        "coordinates": [41.100, -7.600]
+        },
+        {
+        "name": "Alentejo",
+        "features": "Known for red wines, particularly from Aragonez and Trincadeira.",
+        "coordinates": [38.800, -7.500]
+        },
+        {
+        "name": "Madeira",
+        "features": "Famous for fortified Madeira wine.",
+        "coordinates": [32.760, -16.970]
+        }
+    ],
+    "Qatar": [
+        {
+        "name": "No wine regions",
+        "features": "No wine production due to climate and cultural restrictions."
+        }
+    ],
+    "Romania": [
+    {
+      "name": "Transylvania",
+      "features": "Known for red wines from Fetească Neagră and Pinot Noir.",
+      "coordinates": [46.000, 24.500]
+    },
+    {
+      "name": "Moldova",
+      "features": "Famous for Fetească Regală and Cabernet Sauvignon.",
+      "coordinates": [46.500, 27.000]
+    },
+    {
+      "name": "Dealu Mare",
+      "features": "Known for red wines, particularly from Merlot and Cabernet Sauvignon.",
+      "coordinates": [45.400, 26.500]
+    }
+    ],
+    "Russia": [
+        {
+        "name": "Krasnodar Krai",
+        "features": "Known for red and white wines, particularly from Cabernet Sauvignon and Chardonnay.",
+        "coordinates": [44.500, 38.000]
+        },
+        {
+        "name": "Dagestan",
+        "features": "Emerging wine region with native varieties.",
+        "coordinates": [42.800, 47.700]
+        },
+        {
+        "name": "Kuban",
+        "features": "Famous for reds, particularly from Merlot and Cabernet Sauvignon.",
+        "coordinates": [44.200, 39.000]
+        }
+    ],
+    "Rwanda": [
+        {
+        "name": "No wine regions",
+        "features": "No wine production due to altitude and climate."
+        }
+    ],
+    "Saint Kitts and Nevis": [
+        {
+        "name": "No wine regions",
+        "features": "No significant wine production due to climate limitations."
+        }
+    ],
+    "Saint Lucia": [
+        {
+        "name": "No wine regions",
+        "features": "No significant wine production due to climate limitations."
+        }
+    ],
+    "Saint Vincent and the Grenadines": [
+        {
+        "name": "No wine regions",
+        "features": "No significant wine production due to climate limitations."
+        }
+    ],
+    "San Marino": [
+        {
+        "name": "No wine regions",
+        "features": "No significant wine production, although the country is known for local varietals."
+        }
+    ],
+    "Sao Tome and Principe": [
+        {
+        "name": "No wine regions",
+        "features": "No wine production due to climate limitations."
+        }
+    ],
+    "Saudi Arabia": [
+        {
+        "name": "No wine regions",
+        "features": "Wine production is prohibited due to religious reasons."
+        }
+    ],
+    "Senegal": [
+        {
+        "name": "No wine regions",
+        "features": "No significant wine production due to climate limitations."
+        }
+    ],
+    "Serbia": [
+        {
+        "name": "Vojvodina",
+        "features": "Famous for wines made from indigenous varieties like Prokupac and Vranac.",
+        "coordinates": [45.500, 19.500]
+        },
+        {
+        "name": "Sumadija",
+        "features": "Known for red wines, especially from Vranac and Cabernet Sauvignon.",
+        "coordinates": [44.100, 20.300]
+        }
+    ],
+    "Seychelles": [
+        {
+        "name": "No wine regions",
+        "features": "No wine production due to climate limitations."
+        }
+    ],
+    "Sierra Leone": [
+        {
+        "name": "No wine regions",
+        "features": "No significant wine production due to climate limitations."
+        }
+    ],
+    "Singapore": [
+        {
+        "name": "No wine regions",
+        "features": "No wine production due to climate and space limitations."
+        }
+    ],
+    "Slovakia": [
+        {
+        "name": "Small Carpathians",
+        "features": "Known for white wines, especially from Grüner Veltliner and Riesling.",
+        "coordinates": [48.300, 17.000]
+        },
+        {
+        "name": "Tokaj",
+        "features": "Famous for sweet wines from Furmint and Hárslevelű.",
+        "coordinates": [48.050, 21.500]
+        }
+    ],
+    "Slovenia": [
+        {
+        "name": "Primorska",
+        "features": "Famous for red wines like Merlot and Pinot Noir, as well as indigenous varieties.",
+        "coordinates": [45.600, 13.600]
+        },
+        {
+        "name": "Podravje",
+        "features": "Known for white wines, especially from Sauvignon Blanc and Riesling.",
+        "coordinates": [46.500, 16.100]
+        },
+        {
+            "name": "Vipava Valley",
+            "features": "Known for white wines like Sauvignon Blanc and Pinot Gris.",
+            "coordinates": [45.900, 13.800]
+        },
+        {
+            "name": "Maribor",
+            "features": "Famous for Pinot Noir and Chardonnay.",
+            "coordinates": [46.560, 15.650]
+        }
+    ],
+    "Solomon Islands": [
+        {
+        "name": "No wine regions",
+        "features": "No wine production due to climate limitations."
+        }
+    ],
+    "South Africa": [
+    {
+      "name": "Stellenbosch",
+      "features": "Famous for Cabernet Sauvignon, Merlot, and Pinotage.",
+      "coordinates": [-33.933, 18.450]
+    },
+    {
+      "name": "Paarl",
+      "features": "Known for Shiraz, Cabernet Sauvignon, and Chenin Blanc.",
+      "coordinates": [-33.730, 18.970]
+    },
+    {
+      "name": "Walker Bay",
+      "features": "Famous for cool-climate wines like Chardonnay and Pinot Noir.",
+      "coordinates": [-34.500, 19.200]
+    }
+    ],
+    "South Korea": [
+        {
+        "name": "No wine regions",
+        "features": "Wine production is limited, though some wine is made in small-scale vineyards."
+        }
+    ],
+    "Spain": [
+    {
+      "name": "La Rioja",
+      "features": "Famous for Tempranillo and Gran Reserva wines.",
+      "coordinates": [42.450, -2.500]
+    },
+    {
+      "name": "Ribera del Duero",
+      "features": "Known for Tempranillo-based red wines.",
+      "coordinates": [41.700, -3.700]
+    },
+    {
+      "name": "Priorat",
+      "features": "Famous for red wines made from Garnacha and Cariñena.",
+      "coordinates": [41.150, 0.800]
+    },
+    {
+      "name": "Penedès",
+      "features": "Known for Cava and other sparkling wines, as well as red and white wines.",
+      "coordinates": [41.250, 1.800]
+    },
+    {
+      "name": "Jerez",
+      "features": "Famous for Sherry production.",
+      "coordinates": [36.680, -6.140]
+    }
+    ],
+    "Sri Lanka": [
+        {
+        "name": "No wine regions",
+        "features": "No significant wine production due to climate limitations."
+        }
+    ],
+    "Sudan": [
+        {
+        "name": "No wine regions",
+        "features": "No wine production due to cultural and climate limitations."
+        }
+    ],
+    "Suriname": [
+        {
+        "name": "No wine regions",
+        "features": "No significant wine production due to climate limitations."
+        }
+    ],
+    "Sweden": [
+        {
+        "name": "No wine regions",
+        "features": "Wine production is limited, but some small-scale producers experiment with cold-hardy varieties."
+        }
+    ],
+    "Switzerland": [
+        {
+        "name": "Valais",
+        "features": "Known for wines from local varieties like Chasselas and Syrah.",
+        "coordinates": [46.200, 7.500]
+        },
+        {
+        "name": "Geneva",
+        "features": "Known for Pinot Noir and Chasselas.",
+        "coordinates": [46.200, 6.150]
+        },
+        {
+        "name": "Ticino",
+        "features": "Famous for Merlot.",
+        "coordinates": [46.150, 9.000]
+        }
+    ],
+    "Syria": [
+        {
+        "name": "No wine regions",
+        "features": "Limited wine production due to political instability and climate limitations."
+        }
+    ],
+    "Taiwan": [
+        {
+        "name": "No wine regions",
+        "features": "No significant wine production due to climate limitations."
+        }
+    ],
+    "Tanzania": [
+        {
+        "name": "No wine regions",
+        "features": "No significant wine production due to climate limitations."
+        }
+    ],
+    "Thailand": [
+        {
+        "name": "No wine regions",
+        "features": "Limited wine production, but small-scale vineyards exist in cooler areas."
+        }
+    ],
+    "The Gambia": [
+        {
+        "name": "No wine regions",
+        "features": "No significant wine production due to climate limitations."
+        }
+    ],
+    "Togo": [
+        {
+        "name": "No wine regions",
+        "features": "No significant wine production due to climate limitations."
+        }
+    ],
+    "Trinidad and Tobago": [
+    {
+      "name": "No wine regions",
+      "features": "No significant wine production due to climate limitations."
+    }
+    ],
+    "Tunisia": [
+        {
+        "name": "Cap Bon",
+        "features": "Known for red wines, particularly from Syrah and Carignan.",
+        "coordinates": [37.300, 10.900]
+        },
+        {
+        "name": "Mornag",
+        "features": "Famous for local varieties such as Cinsault and Carignan.",
+        "coordinates": [36.780, 10.130]
+        }
+    ],
+    "Turkey": [
+        {
+        "name": "Cappadocia",
+        "features": "Known for wines made from indigenous varieties like Emir and Narince.",
+        "coordinates": [38.800, 34.500]
+        },
+        {
+        "name": "Aegean",
+        "features": "Famous for reds like Cabernet Sauvignon and Merlot, and whites like Chardonnay.",
+        "coordinates": [37.800, 27.000]
+        },
+        {
+        "name": "Thrace",
+        "features": "Known for wines made from international varieties like Merlot, as well as local ones like Karasakız.",
+        "coordinates": [41.000, 27.500]
+        }
+    ],
+    "Turkmenistan": [
+        {
+        "name": "No wine regions",
+        "features": "No significant wine production due to climate limitations."
+        }
+    ],
+    "Tuvalu": [
+        {
+        "name": "No wine regions",
+        "features": "No wine production due to climate limitations."
+        }
+    ],
+    "Uganda": [
+        {
+        "name": "No wine regions",
+        "features": "No significant wine production due to climate limitations."
+        }
+    ],
+    "Ukraine": [
+        {
+        "name": "Odessa",
+        "features": "Known for wines made from international varieties like Cabernet Sauvignon and Chardonnay.",
+        "coordinates": [46.500, 30.750]
+        },
+        {
+        "name": "Krym",
+        "features": "Famous for both red and white wines, particularly from local varieties.",
+        "coordinates": [44.500, 34.000]
+        }
+    ],
+    "United Arab Emirates": [
+        {
+        "name": "No wine regions",
+        "features": "Wine production is limited due to cultural and religious restrictions."
+        }
+    ],
+    "United Kingdom": [
+        {
+        "name": "Sussex",
+        "features": "Known for sparkling wines made from Pinot Noir, Chardonnay, and Pinot Meunier.",
+        "coordinates": [50.850, -0.550]
+        },
+        {
+        "name": "Kent",
+        "features": "Famous for sparkling wines and still wines from Chardonnay and Pinot Noir.",
+        "coordinates": [51.150, 0.600]
+        },
+        {
+        "name": "Surrey",
+        "features": "Produces high-quality sparkling wines from Champagne varieties.",
+        "coordinates": [51.200, -0.600]
+        }
+    ],
+    "United States": [
+        {
+        "name": "Napa Valley",
+        "features": "Famous for Cabernet Sauvignon, Chardonnay, and Merlot.",
+        "coordinates": [38.500, -122.300]
+        },
+        {
+        "name": "Sonoma Valley",
+        "features": "Known for Pinot Noir, Zinfandel, and Chardonnay.",
+        "coordinates": [38.500, -122.500]
+        },
+        {
+        "name": "Willamette Valley",
+        "features": "Famous for Pinot Noir and Pinot Gris.",
+        "coordinates": [44.000, -123.000]
+        },
+        {
+        "name": "Columbia Valley",
+        "features": "Known for Cabernet Sauvignon, Merlot, and Syrah.",
+        "coordinates": [46.000, -118.500]
+        },
+        {
+        "name": "Paso Robles",
+        "features": "Famous for Zinfandel and Cabernet Sauvignon.",
+        "coordinates": [35.700, -120.600]
+        }
+    ],
+    "Uruguay": [
+        {
+        "name": "Maldonado",
+        "features": "Known for Tannat and Merlot.",
+        "coordinates": [-34.900, -54.900]
+        },
+        {
+        "name": "Canelones",
+        "features": "Famous for Tannat and Chardonnay.",
+        "coordinates": [-34.800, -56.200]
+        }
+    ],
+    "Uzbekistan": [
+        {
+        "name": "No wine regions",
+        "features": "Wine production exists but is limited due to climate and political factors."
+        }
+    ],
+    "Vanuatu": [
+    {
+      "name": "No wine regions",
+      "features": "No significant wine production due to climate limitations."
+    }
+    ],
+    "Vatican City": [
+        {
+        "name": "No wine regions",
+        "features": "No wine production due to the size and nature of the country."
+        }
+    ],
+    "Venezuela": [
+        {
+        "name": "No wine regions",
+        "features": "No significant wine production due to climate limitations."
+        }
+    ],
+    "Vietnam": [
+        {
+        "name": "No wine regions",
+        "features": "No significant wine production due to climate limitations."
+        }
+    ],
+    "Yemen": [
+        {
+        "name": "No wine regions",
+        "features": "Wine production is not prevalent due to cultural and climate limitations."
+        }
+    ],
+    "Zambia": [
+        {
+        "name": "No wine regions",
+        "features": "No significant wine production due to climate limitations."
+        }
+    ],
+    "Zimbabwe": [
+        {
+        "name": "No wine regions",
+        "features": "Limited wine production exists, primarily for local consumption."
+        }
+    ]
+}
+

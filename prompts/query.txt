@@ -1,0 +1,8 @@
+List all countries in the world and indicate which ones have wine regions. For each country with a wine industry, name the main wine-producing regions.
+Make it in json format. Example {"Chile": [
+        {"name": "Maipo Valley", "features": "Famous for Cabernet Sauvignon", "coordinates": [-33.826, -70.7179]},
+        {"name": "Casablanca Valley", "features": "Known for Sauvignon Blanc and Pinot Noir", "coordinates": [-33.3183, -71.4071]}
+    ]
+    "Antarctica": ["features": "No wine regions"]
+    }
+I want all countries of the world and all wine regions that exist. Sort countries alphabetically.
