@@ -2,6 +2,7 @@ import json
 import difflib  # for checking similar lines
 import requests
 import math
+from flask import Flask, render_template, request, jsonify
 
 # reading DB-datas from json-file
 with open("countries_wineyards.json", "r", encoding="utf-8") as file:
@@ -109,6 +110,7 @@ def find_nearby_wine_regions(city, wine_regions):
                 region_lng = region['coordinates'][1]
                 distance = haversine(city_lat, city_lng, region_lat, region_lng)
                 if distance <= 100:
+                    
                     region['country'] = country  
                     region['distance'] = distance  
                     nearby_regions.append(region)
@@ -129,5 +131,35 @@ if nearby_regions:
         print(f"Country: {region['country']}, Name: {region['name']}, Features: {region['features']}, Distance: {region['distance']:.2f} km")
 else:
     print(f"No wine regions found within 100 km of {city}.")
+
+app = Flask(__name__, static_url_path='/static', static_folder='static')
+
+@app.route('/')
+def home():
+    return render_template('index.html')
+
+@app.route('/search_regions', methods=['POST'])
+def search_regions():
+    city = request.form.get('city')
+    nearby_regions = find_nearby_wine_regions(city, wine_regions)
+    return jsonify(nearby_regions)
+
+@app.route('/country_info', methods=['POST'])
+def get_country_info():
+    country = request.form.get('country')
+    if country in data:
+        return jsonify({
+            'success': True,
+            'regions': data[country],
+            'count': len(data[country])
+        })
+    suggestions = difflib.get_close_matches(country, data.keys(), n=3)
+    return jsonify({
+        'success': False,
+        'suggestions': suggestions
+    })
+
+if __name__ == '__main__':
+    app.run(debug=True)
 
 

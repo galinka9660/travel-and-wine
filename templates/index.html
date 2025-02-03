@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wine Regions Explorer</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">Wine Regions Explorer</div>
+            <ul>
+                <li><a href="#search">Search</a></li>
+                <li><a href="#about">About</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero">
+            <div class="hero-content">
+                <h1>Discover World's Wine Regions</h1>
+                <p>Explore wine regions near you or anywhere in the world</p>
+            </div>
+        </section>
+
+        <section id="search" class="search-section">
+            <div class="search-container">
+                <div class="search-box">
+                    <h2>Find Wine Regions</h2>
+                    <div class="search-options">
+                        <div class="search-by-city">
+                            <h3>Search by City</h3>
+                            <form id="citySearchForm">
+                                <input type="text" id="cityInput" placeholder="Enter city name">
+                                <button type="submit">Find Regions</button>
+                            </form>
+                            <div id="cityResults" class="results"></div>
+                        </div>
+                        <div class="search-by-country">
+                            <h3>Search by Country</h3>
+                            <form id="countrySearchForm">
+                                <input type="text" id="countryInput" placeholder="Enter country name">
+                                <button type="submit">Show Information</button>
+                            </form>
+                            <div id="countryResults" class="results"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="about" class="about-section">
+            <div class="about-content">
+                <h2>About Wine Regions Explorer</h2>
+                <p>Discover the world's most renowned wine regions and plan your next wine adventure. Our tool helps you find nearby wine regions and learn about different wine cultures around the globe.</p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Wine Regions Explorer. All rights reserved.</p>
+    </footer>
+
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html> 
